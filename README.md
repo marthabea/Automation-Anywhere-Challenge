@@ -9,17 +9,14 @@ Para esse projeto, algumas tecnologias foram utilizadas:
 * [Automation Anywhere](https://www.automationanywhere.com/)
 * [Excel]()
 
-## Dependências e Versões Necessárias
-
-As dependências necessárias para rodar o projeto são:
-
-* Automation Anywhere - Versão: 22.100.25
-
 ## 📌 (RPA Suprimentos - Challenge) - Informações importantes sobre a aplicação
 
-* Como o projeto foi desenvolvido na plataforma AA, não é possível compartilhar o projeto diretamente com terceiros.
-* O projeto ainda está em fase de melhorias. Sugestões são aceitas e podem ser enviadas para o e-mail >marthabeatrizsiq@gmail.com
-
-## ⚠️ Problemas enfrentados
+* Como o projeto foi desenvolvido na plataforma AA 360 University, não é possível compartilhar o projeto diretamente com terceiros.
+* O projeto ainda está em fase de melhorias. Sugestões são aceitas e podem ser enviadas para o e-mail **marthabeatrizsiq@gmail.com.
+**
 
 ## ⏭️ Próximos passos
+
+1.0 Implementar novas ações que verificam se o usuário já está logado nas aplicações que são utilizadas.
+2.0 Inserir logs para monitorar as atividades executadas.
+3.0 Encaminhar um e-mail aos responsáveis (fictícios) pela automação.
