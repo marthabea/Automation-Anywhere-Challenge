@@ -17,6 +17,6 @@ Para esse projeto, algumas tecnologias foram utilizadas:
 
 ## ⏭️ Próximos passos
 
-1.0 Implementar novas ações que verificam se o usuário já está logado nas aplicações que são utilizadas.
-2.0 Inserir logs para monitorar as atividades executadas.
+1.0 Implementar novas ações que verificam se o usuário já está logado nas aplicações que são utilizadas. <br/>
+2.0 Inserir logs para monitorar as atividades executadas.<br/>
 3.0 Encaminhar um e-mail aos responsáveis (fictícios) pela automação.
