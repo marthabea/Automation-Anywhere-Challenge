@@ -20,3 +20,4 @@ Para esse projeto, algumas tecnologias foram utilizadas:
 2.0 Implementar logs para monitorar as atividades.<br/>
 3.0 Implementar ações de envio de e-mail contendo as ordens de compras processadas por execução. <br/>
 4.0 Implementar ações de exceção no código. <br/>
+5.0 Implementar um script Python que realiza a leitura dos dados e gera um dicionário a partir deles.
