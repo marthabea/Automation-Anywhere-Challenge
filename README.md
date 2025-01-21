@@ -9,7 +9,7 @@ Para esse projeto, algumas tecnologias foram utilizadas:
 * [Automation Anywhere](https://www.automationanywhere.com/)
 * [Excel]()
 
-## 📌 (RPA Suprimentos - Challenge) - Informações importantes sobre a aplicação
+## 📌 Informações importantes sobre a aplicação
 
 * Como o projeto foi desenvolvido na plataforma AA 360 University, não é possível compartilhar o projeto diretamente com terceiros.
 * O projeto ainda está em fase de melhorias. Sugestões são aceitas e podem ser enviadas para o e-mail marthabeatrizsiq@gmail.com.
