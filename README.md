@@ -1,6 +1,6 @@
 # RPA Suprimentos - Challenge
 
-O projeto é focado no gerenciamento de suprimentos de uma empresa, envolvendo a extração e preenchimento dos campos requisitados com informações detalhadas sobre os produtos adquiridos, sempre considerando o PO (Purchase Order) específico de cada região dos Estados Unidos.
+O projeto é focado no gerenciamento de suprimentos de uma empresa, envolvendo a extração e preenchimento dos campos requisitados com informações detalhadas sobre os produtos adquiridos, sempre considerando o PO (Purchase Order) específico de cada estado dos Estados Unidos.
 
 ### Tecnologias Utilizadas
 
@@ -17,5 +17,6 @@ Para esse projeto, algumas tecnologias foram utilizadas:
 ## ⏭️ Próximos passos
 
 1.0 Implementar novas ações que verificam se o usuário já está logado nas aplicações que são utilizadas. <br/>
-2.0 Inserir logs para monitorar as atividades executadas.<br/>
-3.0 Encaminhar um e-mail aos responsáveis (fictícios) pela automação.
+2.0 Implementar logs para monitorar as atividades.<br/>
+3.0 Implementar ações de envio de e-mail contendo as ordens de compras processadas por execução. <br/>
+4.0 Implementar ações de exceção no código. <br/>
