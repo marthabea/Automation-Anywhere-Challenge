@@ -16,7 +16,7 @@ Para esse projeto, algumas tecnologias foram utilizadas:
 
 ## ⏭️ Próximos passos
 
-1.0 Implementar novas ações que verificam se o usuário já está logado nas aplicações que são utilizadas. <br/>
+1.0 Implementar novas ações que verificam se o usuário já está logado nas aplicações que são utilizadas. ✅<br/>
 2.0 Implementar logs para monitorar as atividades. <br/>
-3.0 Implementar ações de envio de e-mail contendo as ordens de compras processadas por execução. <br/>
+3.0 Implementar ações de envio de e-mail contendo as ordens de compras processadas por execução. ✅ <br/>
 4.0 Implementar um script Python que realiza a leitura dos dados e gera um dicionário a partir deles.
